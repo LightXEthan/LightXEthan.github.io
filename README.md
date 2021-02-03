@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome my GitHub Page
+
+### My VSCode Extensions List
+- Gitlens
+- Material Theme (Ocean high contrast)
+- Beautify
+- Bracket Pair Colorizer 2
+- indent-rainbow
+
+## TODO make website using below info
 
 You can use the [editor on GitHub](https://github.com/LightXEthan/lightxethan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
